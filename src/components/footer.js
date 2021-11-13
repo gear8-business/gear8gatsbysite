@@ -6,7 +6,7 @@ import * as styles from './footer.module.css'
 const Footer = () => (
   <Container as="footer">
     <div className={styles.container}>
-      Built with <a href="https://gear8.in/">Gear8 </a> &cpy; 2021-2022
+     <a href="https://gear8.in/">Gear8 </a> &cpy; 2021-2022
     </div>
   </Container>
 )
