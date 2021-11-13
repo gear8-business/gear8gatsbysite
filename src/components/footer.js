@@ -5,8 +5,8 @@ import * as styles from './footer.module.css'
 
 const Footer = () => (
   <Container as="footer">
-    <div className={styles.container} style={{"widht":"100%"}}>
-      <a href="https://gear8.in" className="text-center">www.gear8.in</a> {' '} &copy; {' '} 2021 
+    <div className={styles.container}>
+     <a href="https://gear8.in/">Gear8 </a> &copy; 2021-2022
     </div>
   </Container>
 )
